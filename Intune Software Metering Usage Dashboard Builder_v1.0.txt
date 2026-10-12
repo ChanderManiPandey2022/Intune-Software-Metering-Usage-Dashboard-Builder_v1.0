@@ -1,0 +1,2 @@
+https://github.com/ChanderManiPandey2022/Intune-Software-Metering-Usage-Dashboard-Builder_v1.0/releases/download/v1.0/Intune.Software.Metering.Usage.Dashboard.Builder_v1.
+0.ps1
